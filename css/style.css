@@ -10,9 +10,27 @@
 
 #recipe {
   background-image: url("../images/list-bg.png");
+  box-shadow: 5px 5px 3px #888888;
+}
+
+#full-body {
+  max-width: 900px;
+  margin: auto;}
+
+.indent {
+  text-indent: 30px;
 }
 
 ul {
   list-style: None;
   line-height: 31px;
+}
+
+.split {
+  display: inline-block;
+  width: 49%;
+}
+
+.done {
+  text-decoration: line-through;
 }
