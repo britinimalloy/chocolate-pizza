@@ -1,16 +1,19 @@
 /* Style sheet for index.html of pair programming day 10 assignment */
 
-#delicious {
-  font-family: 'Pacifico', cursive;
+#company {
+  font-family: 'Yellowtail', cursive;
+  font-size: 25px;
 }
 
 .explanatory {
   font-family: 'Titillium Web', sans-serif;
+  font-size: 10px;
 }
 
 #recipe {
   background-image: url("../images/list-bg.png");
   box-shadow: 5px 5px 3px #888888;
+  font-family: "Comic Sans MS", cursive, sans-serif;
 }
 
 #full-body {
@@ -29,8 +32,36 @@ ul {
 .split {
   display: inline-block;
   width: 49%;
+  overflow: auto;
+}
+
+.right {
+  text-align: right;
+  float: right;
 }
 
 .done {
   text-decoration: line-through;
+}
+
+.float-left {
+  float: left;
+  margin-right: 5px;
+}
+
+.bottom {
+  position: absolute;
+}
+
+.margin2 {
+  margin-right: 0px;
+}
+
+.margin10 {
+  margin-right: 5px;
+}
+
+#tagline {
+  font-family: 'Oswald', sans-serif;
+  font-size: 30px;
 }
