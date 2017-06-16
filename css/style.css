@@ -1,0 +1,18 @@
+/* Style sheet for index.html of pair programming day 10 assignment */
+
+#delicious {
+  font-family: 'Pacifico', cursive;
+}
+
+.explanatory {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#recipe {
+  background-image: url("../images/list-bg.png");
+}
+
+ul {
+  list-style: None;
+  line-height: 31px;
+}
