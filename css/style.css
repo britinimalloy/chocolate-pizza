@@ -2,7 +2,13 @@
 
 #company {
   font-family: 'Yellowtail', cursive;
-  font-size: 25px;
+  font-size: 35px;
+  line-height: .9;
+}
+
+* {
+  font-family: "Times New Roman", Georgia, Serif;
+  font-size: 16px;
 }
 
 .explanatory {
@@ -57,6 +63,10 @@ ul {
   margin-right: 0px;
 }
 
+table {
+  border: 5px;
+}
+
 .margin10 {
   margin-right: 5px;
 }
@@ -64,4 +74,39 @@ ul {
 #tagline {
   font-family: 'Oswald', sans-serif;
   font-size: 30px;
+}
+
+
+.split680 {
+  display: inline-block;
+  width: 680px;
+  overflow: auto;
+}
+
+.split200 {
+  text-align: right;
+  float: right;
+}
+
+.authorpic {
+  margin-right: 5px;
+  float: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.bio {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.button {
+  width: 200px;
+  height: 50px;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 16px;
+  background-color: red;
+  color: white;
 }

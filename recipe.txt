@@ -16,7 +16,6 @@ https://stackoverflow.com/questions/658044/tick-symbol-in-html-xhtml
 ☑ (hex: &#x2611; / dec: &#9745;): ballot box with check
 
 1 1/2 cups milk
-
 1/2 cup mascarpone
 1/2 tsp pink salt
 1 lb Black Mission Figs
